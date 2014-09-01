@@ -1,4 +1,4 @@
 bitmarket
 =========
 
-Bitmarket.ph's Merchant API documentation
+Bitmarket.ph's [Merchant API documentation](wiki)
