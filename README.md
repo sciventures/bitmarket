@@ -1,4 +1,4 @@
 bitmarket
 =========
 
-Bitmarket.ph's [Merchant API documentation](../../wiki)
+Bitmarket.ph [Merchant API documentation](../../wiki)
